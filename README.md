@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Lucas Barreto!
 
-🎓 **Estudante de Engenharia de Software (4º semestre – UDF)**  
+🎓 **Estudante de Engenharia de Software (5º semestre – UDF)**  
 💻 Apaixonado por tecnologia, desenvolvimento de software e resolução de problemas  
 🚀 Explorando desenvolvimento back-end, banco de dados, algoritmos e projetos open source  
 
